@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500px;
+  padding: 10px;
+}

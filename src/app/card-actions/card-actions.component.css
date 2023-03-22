@@ -1,0 +1,13 @@
+:host {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.corp-card-actions {
+  display: flex;
+  gap: 10px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: lightgray;
+  padding: 15px 15px;
+}
